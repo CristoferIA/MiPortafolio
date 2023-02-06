@@ -1,0 +1,21 @@
+
+.header-title{
+    width: 100%;
+    font-family: 'Roboto', sans-serif;
+    position: relative;
+    color: var(--text-color);
+    position: relative;
+}
+.header-title>h1{
+    font-size: 7rem;
+    font-weight: 900;
+    -webkit-text-stroke: 0.02rem var(--text-color-gray);
+    color: transparent; 
+    letter-spacing: 5px;    
+}
+.header-title>h2{
+    font-size: 2.8rem;
+    position: absolute;
+    top: 40%;
+    font-weight: 500;
+}
