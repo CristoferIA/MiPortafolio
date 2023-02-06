@@ -18,7 +18,7 @@ const Portafolio = () => {
             }}
           >
             <div className="portafolio__image">
-              <img src="./public/images/ecommers.png" alt="" />
+              <img src="./images/ecommers.png" alt="" />
             </div>
             <div>
               <h2>Ecommerce</h2>
@@ -44,7 +44,7 @@ const Portafolio = () => {
             }}
           >
             <div className="portafolio__image">
-              <img src="./public/images/pokedex.png" alt="" />
+              <img src="./images/pokedex.png" alt="" />
             </div>
             <div>
               <h2>Pokedex</h2>
@@ -70,7 +70,7 @@ const Portafolio = () => {
             }}
           >
             <div className="portafolio__image">
-              <img src="./public/images/rickAndMorty.png" alt="" />
+              <img src="./images/rickAndMorty.png" alt="" />
             </div>
             <div>
               <h2>Rick and Morty</h2>
@@ -96,7 +96,7 @@ const Portafolio = () => {
             }}
           >
             <div className="portafolio__image">
-              <img src="./public/images/academloStore.png" alt="" />
+              <img src="./images/academloStore.png" alt="" />
             </div>
             <div>
               <h2>AppStore</h2>
@@ -122,7 +122,7 @@ const Portafolio = () => {
             }}
           >
             <div className="portafolio__image">
-              <img src="./public/images/weatherApp.png" alt="" />
+              <img src="./images/weatherApp.png" alt="" />
             </div>
             <div>
               <h2>WeatherApp</h2>
@@ -148,7 +148,7 @@ const Portafolio = () => {
             }}
           >
             <div className="portafolio__image">
-              <img src="./public/images/CRUD.png" alt="" />
+              <img src="./images/CRUD.png" alt="" />
             </div>
             <div>
               <h2>CRUD con React</h2>
@@ -174,7 +174,7 @@ const Portafolio = () => {
             }}
           >
             <div className="portafolio__image">
-              <img src="./public/images/tarjetaAleatoria.png" alt="" />
+              <img src="./images/tarjetaAleatoria.png" alt="" />
             </div>
             <div>
               <h2>Tarjetas aleatoria con React</h2>
