@@ -67,7 +67,7 @@ const Home = () => {
             <button
               onClick={() => {
                 window.open(
-                  "https://drive.google.com/file/d/1TAFiDXTPTl188t0d0Sif_eR0eZjJPB5K/view?usp=sharing",
+                  "https://drive.google.com/file/d/1Yiha4sbJekwH69sgln8Pu50QcQpIBurq/view?usp=share_link",
                   "_blank"
                 );
               }}
