@@ -51,7 +51,6 @@ const Home = () => {
     }
   }, 100);
 
-
   return (
     <div className="home">
       <div className="home_container">
@@ -65,7 +64,14 @@ const Home = () => {
             Y estoy listo para solucionar los mayores desafíos de la industria.
           </p>
           <div>
-            <button>
+            <button
+              onClick={() => {
+                window.open(
+                  "https://drive.google.com/file/d/1TAFiDXTPTl188t0d0Sif_eR0eZjJPB5K/view?usp=sharing",
+                  "_blank"
+                );
+              }}
+            >
               <i className="fas fa-download"></i> Mi CV
             </button>
             <button>
