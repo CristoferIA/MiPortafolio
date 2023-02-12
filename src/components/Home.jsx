@@ -89,7 +89,9 @@ const Home = () => {
             </ul>
           </div>
         </div>
-        <div className="home__image"></div>
+        <div className="home__image">
+          <img src="./miFoto.PNG" alt="" />
+        </div>
       </div>
     </div>
   );

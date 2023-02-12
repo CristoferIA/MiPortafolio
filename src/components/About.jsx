@@ -23,7 +23,7 @@ const About = () => {
           </p>
           <p>
             Adicionalmente tengo estudio técnico en operación de computadoras,
-            podiendo realizar trabajos de diseño publicitario y edición de
+            pudiendo realizar trabajos de diseño publicitario y edición de
             videos, manejando programas como: CorelDraw, Photoshop, after efect,
             adobre premier. Estas disciplinas me complementa en mi trabajo como
             desarrollador Front-Dnd.
