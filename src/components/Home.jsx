@@ -90,7 +90,7 @@ const Home = () => {
           </div>
         </div>
         <div className="home__image">
-          <img src="./miFoto.PNG" alt="" />
+          <img src="./miFoto2.jpeg" alt="" />
         </div>
       </div>
     </div>
