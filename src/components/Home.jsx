@@ -74,17 +74,27 @@ const Home = () => {
             >
               <i className="fas fa-download"></i> Mi CV
             </button>
-            <button>
+            {/*<button>
               <i className="fas fa-envelope"></i> Contactame
-            </button>
+            </button>*/}
           </div>
           <div>
             <ul>
               <li>
-                <i className="fab fa-linkedin-in"></i>
+                <a
+                  target="_blank"
+                  href="https://www.linkedin.com/in/cristofer-islach%C3%ADn-avenda%C3%B1o-217657135/"
+                >
+                  <i className="fab fa-linkedin-in"></i>
+                </a>
               </li>
               <li>
-                <i className="fab fa-youtube"></i>
+                <a
+                  target="_blank"
+                  href="https://www.youtube.com/@caminoalfuturo3799"
+                >
+                  <i className="fab fa-youtube"></i>
+                </a>
               </li>
             </ul>
           </div>

@@ -5,21 +5,20 @@ const About = () => {
   return (
     <div className="about">
       <div className="about__container">
-        <div className="about__foto"></div>
+        {/*<div className="about__foto"></div>*/}
         <div className="about__information">
           <h2>¿Quién soy?</h2>
-          <h1>
-            Soy Cristofer Islachín, Desarrollador React JavaScript certificado
-          </h1>
+          <h1>Soy Cristofer Islachín, Desarrollador Full Stack Developer</h1>
           <p>
             {" "}
-            Soy Bach. en Ingeniero de Sistemas con 1 año de experiencia y, tengo
-            estudios recientes en Front-End con React. Busco trabajo como
-            developer en una empresa que me permita explotar mis conocimientos
-            de python, PHP, Java, JavaScript, React, html5, css3, git, sql,
-            mySQL, PostgreSQL, POO, y todo lo relacionado a la programación.
-            Dentro de mis habilidades está la investigación y el trabajo en
-            equipo. Mi área de interés es el data science.
+            Soy Ingeniero de Sistemas con +1 año de experiencia, actualemnte
+            estoy cursando una maestría en Inteligencia Artificial, tambien me
+            desempeño como desarrollador en fronted y backend. Busco trabajo
+            como developer en una empresa que me permita explotar mis
+            conocimientos de python, PHP, Java, JavaScript, React, express,
+            html5, css3, git, sql, mySQL, PostgreSQL, POO, y todo lo relacionado
+            a la programación. Dentro de mis habilidades está la investigación y
+            el trabajo en equipo. Mi área de interés es el data science.
           </p>
           <p>
             Adicionalmente tengo estudio técnico en operación de computadoras,
@@ -42,7 +41,7 @@ const About = () => {
                 Ciudar: <span>Apurímac, Perú</span>
               </p>
               <p>
-                Email: <span>cristofer_221@hotmail.com</span>
+                Email: <span>cristofer0993@gmail.com</span>
               </p>
             </div>
           </div>

@@ -1,4 +1,4 @@
-.about{
+.about {
     width: 100%;
     height: 100vh;
     max-height: 1080px;
@@ -10,7 +10,7 @@
     padding: 1rem;
 }
 
-.about__container{
+.about__container {
     color: var(--text-color);
     width: 100%;
     max-width: 1280px;
@@ -18,45 +18,53 @@
     margin: 0 auto;
     display: flex;
     font-family: 'Roboto', sans-serif;
-    
+
 }
 
-.about__foto{
+.about__foto {
     width: 50%;
 }
 
-.about__information{
-    width: 50%;
+.about__information {
+    width: auto;
     height: 100%;
     display: flex;
     flex-direction: column;
     justify-content: center;
     gap: 1rem;
 }
-.about__information>h2{
+
+.about__information>h2 {
     color: var(--btn-color-2);
 }
-.about__information>h1{
+
+.about__information>h1 {
     color: var(--text-color);
 }
-.about__information>p{
+
+.about__information>p {
+    font-size: 1.3rem;
     color: var(--text-color-gray);
     line-height: 1.8rem;
+    text-align: justify;
 }
 
-.about__information-detalle{
+.about__information-detalle {
     border-top: 1px solid var(--text-color-gray);
     padding: 1rem 0;
     display: flex;
     justify-content: space-between;
 }
-.about__information-detalle>div{
+
+.about__information-detalle>div {
     display: flex;
     flex-direction: column;
     gap: 1.5rem;
 }
 
-.about__information>button{
+.about__information>button {
+    max-width: 250px;
+    width: 100%;
     padding: 1rem 1.5rem;
     font-size: 1rem;
     color: white;
@@ -64,6 +72,7 @@
     background-color: var(--btn-color);
     cursor: pointer;
 }
-.about__information>button:active{
+
+.about__information>button:active {
     background-color: var(--btn-color-2);
 }
