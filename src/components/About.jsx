@@ -13,7 +13,7 @@ const About = () => {
             {" "}
             Soy Ingeniero de Sistemas con +1 año de experiencia, actualemnte
             estoy cursando una maestría en Inteligencia Artificial, tambien me
-            desempeño como desarrollador en fronted y backend. Busco trabajo
+            desempeño como desarrollador en frontend y backend. Busco trabajo
             como developer en una empresa que me permita explotar mis
             conocimientos de python, PHP, Java, JavaScript, React, express,
             html5, css3, git, sql, mySQL, PostgreSQL, POO, y todo lo relacionado
