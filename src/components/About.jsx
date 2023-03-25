@@ -24,13 +24,13 @@ const About = () => {
             Adicionalmente tengo estudio técnico en operación de computadoras,
             pudiendo realizar trabajos de diseño publicitario y edición de
             videos, manejando programas como: CorelDraw, Photoshop, after efect,
-            adobre premier. Estas disciplinas me complementa en mi trabajo como
+            adobe premier. Estas disciplinas me complementa en mi trabajo como
             desarrollador Front-Dnd.
           </p>
           <div className="about__information-detalle">
             <div>
               <p>
-                Nombre: <span>Cristofer Islachín Avendañp</span>
+                Nombre: <span>Cristofer Islachín Avendaño</span>
               </p>
               <p>
                 Edad: <span>29</span>
