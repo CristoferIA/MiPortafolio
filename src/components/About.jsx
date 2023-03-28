@@ -31,9 +31,7 @@ const About = () => {
               <p>
                 Nombre: <span>Cristofer Islachín Avendaño</span>
               </p>
-              <p>
-                Edad: <span>29</span>
-              </p>
+              <p>-</p>
             </div>
             <div>
               <p>
