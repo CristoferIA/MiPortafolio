@@ -14,8 +14,8 @@ const About = () => {
             Soy Ingeniero de Sistemas con +1 año de experiencia, me desempeño
             como desarrollador en frontend y backend. Busco trabajo como
             developer en una empresa que me permita explotar mis conocimientos
-            de Python, PHP, Java, JavaScript, React, Express, HTML, CSS, GIT,
-            SQL, MySQL, PostgreSQL, POO, y todo lo relacionado a la
+            de JavaScript, React.js, Express, HTML, CSS, GIT, SQL, MySQL,
+            PostgreSQL, PHP, Python, Java, Oracle y todo lo relacionado a la
             programación. Dentro de mis habilidades está la investigación y el
             trabajo en equipo. Mi área de interés es el data science.
           </p>
