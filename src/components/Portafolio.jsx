@@ -11,10 +11,7 @@ const Portafolio = () => {
           <div
             className="portafolio__items-element"
             onClick={() => {
-              window.open(
-                "https://cristoferia-entregable6.netlify.app/#/",
-                "_blank"
-              );
+              window.open("https://ecommerce2023.netlify.app/", "_blank");
             }}
           >
             <div className="portafolio__image">
@@ -24,10 +21,7 @@ const Portafolio = () => {
               <h2>Ecommerce</h2>
               <button
                 onClick={() => {
-                  window.open(
-                    "https://cristoferia-entregable6.netlify.app/#/",
-                    "_blank"
-                  );
+                  window.open("https://ecommerce2023.netlify.app/", "_blank");
                 }}
               >
                 Web Site
@@ -37,10 +31,7 @@ const Portafolio = () => {
           <div
             className="portafolio__items-element"
             onClick={() => {
-              window.open(
-                "https://gregarious-muffin-125863.netlify.app/#/",
-                "_blank"
-              );
+              window.open("https://pokedexperu2023.netlify.app/", "_blank");
             }}
           >
             <div className="portafolio__image">
@@ -50,10 +41,7 @@ const Portafolio = () => {
               <h2>Pokedex</h2>
               <button
                 onClick={() => {
-                  window.open(
-                    "https://gregarious-muffin-125863.netlify.app/#/",
-                    "_blank"
-                  );
+                  window.open("https://pokedexperu2023.netlify.app/", "_blank");
                 }}
               >
                 Web Site
