@@ -8,10 +8,10 @@ const About = () => {
         {/*<div className="about__foto"></div>*/}
         <div className="about__information">
           <h2>¿Quién soy?</h2>
-          <h1>Soy Cristofer Islachín, Desarrollador Full Stack Developer</h1>
+          <h1>Soy Cristofer Islachín, desarrollador web full stack</h1>
           <p>
             {" "}
-            Soy Ingeniero de Sistemas con más de 1 año de experiencia, me
+            Soy ingeniero de sistemas con más de 1 año de experiencia, me
             desempeño como desarrollador en frontend y backend. Busco trabajo
             como developer en una empresa que me permita explotar mis
             conocimientos de JavaScript, React.js, Express, HTML, CSS, GIT, SQL,
