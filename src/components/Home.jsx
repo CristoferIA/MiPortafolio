@@ -83,7 +83,7 @@ const Home = () => {
               <li>
                 <a
                   target="_blank"
-                  href="https://www.linkedin.com/in/cristofer-islach%C3%ADn-avenda%C3%B1o-217657135/"
+                  href="https://www.linkedin.com/in/cristofer-islachín-a-217657135/"
                 >
                   <i className="fab fa-linkedin-in"></i>
                 </a>
