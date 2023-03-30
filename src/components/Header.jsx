@@ -16,7 +16,7 @@ const Header = () => {
       <div className="header__container">
         <h1>
           <Link to="home" smooth={true} duration={500}>
-            CristoferIA
+            CIA
           </Link>
         </h1>
         <div className="header__menu">

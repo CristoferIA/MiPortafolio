@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import "../../public/css/home.css";
 
 const Home = () => {
-  const text = ["Cristofer IA", "Developer", "Freelancer", ""];
+  const text = ["Cristofer", "Developer", "Freelancer", ""];
 
   const [name, setName] = useState("");
   const [counter, setCounter] = useState(0);
