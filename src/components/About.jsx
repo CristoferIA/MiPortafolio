@@ -25,7 +25,7 @@ const About = () => {
             pudiendo realizar trabajos de diseño publicitario y edición de
             videos, manejando programas como: CorelDraw, Photoshop, after efect,
             adobe premier. Estas disciplinas me complementa en mi trabajo como
-            desarrollador Frontend.
+            desarrollador frontend.
           </p>
           <div className="about__information-detalle">
             <div>
